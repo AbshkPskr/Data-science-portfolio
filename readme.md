@@ -30,6 +30,9 @@ Most of the visulizations are in plotly which are not visible on github so pleas
         outlier analysis, feature selection and scaling. Here monthly loss for company is also calulated.
         
         _Tools: caret, ggplot2, Hmisc, PerformanceAnalytics, caTools, randomForest, e1071_
+	
+- ### Timeline report
+    - [CoronaVirus Timeline](link): This is timeline report of coronavirus worldwide spread. This report contains the series of events occured like the official news from China, reaction of different countries, decisions taken by authorities of different countries, public reaction, lockdown dates etc. Links, press releases, official documnets, news videos these all are embeded in this report to tell a story that how the world tackled the coronavirus pandemic.
         
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at 282abhishek@gmail.com 
