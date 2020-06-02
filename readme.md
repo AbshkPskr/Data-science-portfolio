@@ -19,9 +19,17 @@ Most of the visulizations are in plotly which are not visible on github so pleas
     - __Python__
     	- [Predicting Number of Rental Bikes](link): A model to predict the number of bikes going on rent using previous two years data. Data includes features like season, weather condition, humidity, windspeed etc, an analysis on these factors is done to indicate the relation with the outcome. This helps company to maintain the inventory, required in different situations and assist to maximize the profit. It is a supervised machine learning regression problem as we have to predict the number of bikes which is a continuous feature.
     	
-    	- [Predicting Employee Absenteeism](link): This project includes the study of underlying factors that causes employees absenteeism. Factors like reason for absence, chronic diseases, money spend in commute, distance between office and home, number of children etc are used to predit the abseteeism behaviour of an employee. Although the target feature in this problem is a continous variable but binning technique is used to convert it to a supervised classification problem. This study helps the organization to better manage the man power and aids in improving the hiring process.
-    - __R__ 
-        - [Predicting Number of Rental Bikes](link): This the same project as above implemented using R language.
-        - [Predicting Employee Absenteeism](link): This the same project as above implemented using R language.
+    	- [Predicting Employee Absenteeism](link): This project targets the study of underlying factors that causes employees absenteeism. Factors like reason for absence, chronic diseases, money spend in commute, distance between office and home, number of children etc are used to predit the abseteeism behaviour of an employee. Although the target feature in this problem is a continous variable but binning technique is used to convert it to a supervised machine learning classification problem. This study helps the organization to better manage the man power and aids in improving the hiring process.
+
+        _Tools: Pandas, matplotlib, plotly, scipy_
+        
+    - __R language__ 
+        - [Predicting Number of Rental Bikes](link): This is the same project as above, implemented here using R language. Both these projects have step wise analysis which includes data preparation, exploratory data analysis, outlier analysis. For prediction three algorithms are compared, Linear Regession, Decicion Tree and Random Forest.
+        
+        - [Predicting Employee Absenteeism](link): The employee absenteeism project implemented in R language. Here data analysis steps include data preparation, visualization using ggplot, missing value analysis,
+        outlier analysis, feature selection and scaling. Here monthly loss for company is also calulated.
+        
+        _Tools: caret, ggplot2, Hmisc, PerformanceAnalytics, caTools, randomForest, e1071_
+        
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at 282abhishek@gmail.com 
