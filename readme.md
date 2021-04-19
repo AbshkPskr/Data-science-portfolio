@@ -1,4 +1,4 @@
-# Data Science Portfolio.
+# Data Science Portfolio
 This repository contains portfolio of data science projects for the purpose of self learning and hobby.<br>
 Presented in the form of iPython Notebooks, and R files. IPython Notebooks are made using google colab.
 
