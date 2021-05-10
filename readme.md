@@ -2,7 +2,7 @@
 This repository contains portfolio of data science projects for the purpose of self learning and hobby.<br>
 Presented in the form of iPython Notebooks, and R files. IPython Notebooks are made using google colab.
 
-For better visualization of portfolio please visit the website [abshkpskr.github.io] (abshkpskr.github.io)<br>
+For better visualization of portfolio please visit the website [abshkpskr.github.io](abshkpskr.github.io)<br>
 Most of the visulizations are in plotly which are not visible on github so please visit the website.
 
 ## Contents
